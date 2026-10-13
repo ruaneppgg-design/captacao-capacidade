@@ -1,1 +1,9 @@
 data_download,fonte,url,arquivo,tamanho_mb,sha256
+2026-10-13,transferegov_discricionarias,https://api-publica.transferegov.gestao.gov.br/downloads,data\raw\transferegov_discricionarias\siconv_convenio.csv,70.8,bafbfe8df1dccace84393fba3e946e374517b5f39ffd97919aa41091e6ddbc10
+2026-10-13,transferegov_discricionarias,https://api-publica.transferegov.gestao.gov.br/downloads,data\raw\transferegov_discricionarias\siconv_desembolso.csv,63.6,8610f341f604f730939ec426da311eb403ac7037d8da5b2810ebdf42a583fc59
+2026-10-13,transferegov_discricionarias,https://api-publica.transferegov.gestao.gov.br/downloadsL,data\raw\transferegov_discricionarias\siconv_emenda.csv,31.5,a7dab7ab5037ec1a26e50af4592db61512a6328ea086f0d53f835c33934a6887
+2026-10-13,transferegov_discricionarias,https://api-publica.transferegov.gestao.gov.br/downloads,data\raw\transferegov_discricionarias\siconv_pagamento.csv,1096.0,80d05cb4d632283b55d5d67558b61b86470de8cc2dc44c62bac010cff0a31091
+2026-10-13,transferegov_discricionarias,https://api-publica.transferegov.gestao.gov.br/downloads,data\raw\transferegov_discricionarias\siconv_proposta.csv,755.7,dd869bf5bcdb8ae783192ed21e43325808ad83b3c92473d578f96abee04007c8
+2026-10-13,transparencia_emendas,PREENCHER_URL,data\raw\transparencia_emendas\EmendasParlamentares.csv,47.4,4cfcb2694c2e2cc5c4ea6a24cd846dd0ffe1eb7ec643b50c2f9531ce9993201c
+2026-10-13,transparencia_emendas,PREENCHER_URL,data\raw\transparencia_emendas\EmendasParlamentares_Convenios.csv,26.0,8dbd6739888a6c717c38ee5f3f9d37b7e6bc1eee8bf4678d17f37bddb83c3c21
+2026-10-13,transparencia_emendas,PREENCHER_URL,data\raw\transparencia_emendas\EmendasParlamentares_PorFavorecido.csv,182.7,81e2d6bd60556ab3b121e5b890085e44f05513de7a50e59a703df532e997dbfb
